@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Mihai Pocorschi <mihai@pocorschi.com>",
   "bugs": {
-    "url": "https://github.com/pocorschi/gatsby-plugin-google-fonts-v2/issues"
+    "url": "https://github.com/agmah-ai/gatsby-plugin-google-fonts-v2/issues"
   },
   "license": "MIT",
   "scripts": {
@@ -25,9 +25,9 @@
     "typescript": "^4.2.3"
   },
   "peerDependencies": {
-    "gatsby": "^3.0.0 || ^4.0.0"
+    "gatsby": "^3.0.0 || ^4.0.0 || ^5.0.0"
   },
-  "homepage": "https://github.com/pocorschi/gatsby-plugin-google-fonts-v2",
+  "homepage": "https://github.com/agmah-ai/gatsby-plugin-google-fonts-v2",
   "keywords": [
     "node",
     "npm",
@@ -36,7 +36,7 @@
     "google",
     "fonts"
   ],
-  "repository": "https://github.com/pocorschi/gatsby-plugin-google-fonts-v2",
+  "repository": "https://github.com/agmah-ai/gatsby-plugin-google-fonts-v2",
   "dependencies": {
     "@types/jest": "^27.0.1",
     "@types/react": "^17.0.3",
