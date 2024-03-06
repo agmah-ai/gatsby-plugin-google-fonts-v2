@@ -5,3 +5,4 @@ yarn.lock
 coverage
 *.log
 node_modules
+package-lock.json
