@@ -6,3 +6,5 @@ coverage
 *.log
 node_modules
 package-lock.json
+*.tsbuildinfo
+dist
