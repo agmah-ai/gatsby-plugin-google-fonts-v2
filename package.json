@@ -1,7 +1,10 @@
 {
+  "type": "module",
   "name": "gatsby-plugin-google-fonts-v2",
   "version": "1.0.1",
-  "main": "index.js",
+  "files": [
+    "/dist"
+  ],
   "author": "Mihai Pocorschi <mihai@pocorschi.com>",
   "bugs": {
     "url": "https://github.com/agmah-ai/gatsby-plugin-google-fonts-v2/issues"
